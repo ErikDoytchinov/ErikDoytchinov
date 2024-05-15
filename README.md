@@ -12,8 +12,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-</div
 
----
-### My Github Stats: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErikDoytchinov&theme=dark&mode=weekly)](https://git.io/streak-stats)
+  ---
+  ### My Github Stats: 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErikDoytchinov&theme=dark&mode=weekly)](https://git.io/streak-stats)
+</div
