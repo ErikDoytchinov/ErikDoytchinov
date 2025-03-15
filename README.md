@@ -15,5 +15,7 @@
 
   ---
   ### My Github Stats: 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErikDoytchinov&theme=dark&mode=weekly)](https://git.io/streak-stats)
+  ![ErikDoytchinov's Stats](https://github-readme-stats.vercel.app/api?username=ErikDoytchinov&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+  ![ErikDoytchinov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErikDoytchinov&theme=gruvbox&hide_border=false)
+  ![ErikDoytchinov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikDoytchinov&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 </div
